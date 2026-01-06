@@ -1,4 +1,0 @@
-[2025-07-23 16:11:11] Called method: add
-[2025-07-23 16:11:11] Called method: multiply
-[2025-07-23 16:13:53] Called method: add Args: (5, 3), Kwargs: {}, Returned: 8
-[2025-07-23 16:13:53] Called method: multiply Args: (4, 2), Kwargs: {}, Returned: 8
