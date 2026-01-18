@@ -13,3 +13,4 @@ for i in range(2, c):
 
 # Print the c-th term (index c-1)
 print("The number at position", c, "is:", seq[c - 1])
+##
