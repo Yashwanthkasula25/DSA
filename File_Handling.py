@@ -11,7 +11,7 @@ with open("example.txt", "w") as file:
 
 
 
-# -------- 2. Reading from a file (r mode) --------
+# ------ 2. Reading from a file (r mode) --------
 # Opens the file for reading and prints its content
 with open("example.txt", "r") as file:
    content = file.read()
