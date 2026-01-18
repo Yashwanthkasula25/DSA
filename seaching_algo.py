@@ -41,7 +41,7 @@ def binary_search(arr, target):
 # -----------------------------
 # 🔎 TESTING BOTH SEARCHES 🔎
 # -----------------------------
-
+####
 arr = [10, 25, 35, 40, 55, 60, 75]
 target = 55
 
