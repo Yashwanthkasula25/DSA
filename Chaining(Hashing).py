@@ -2,7 +2,7 @@ class ChainingHashTable:
     def __init__(self, size):
         self.size = size
         self.table = [{} for _ in range(size)]  # Each chain is now a dict
-
+#####
     def _hash(self, key):
         return hash(key) % self.size
 
