@@ -10,7 +10,7 @@ class DoubleHashingHashTable:
             if self._is_prime(num):
                 return num
         return 3
-###
+########
     def _is_prime(self, num):
         if num < 2:
             return False
