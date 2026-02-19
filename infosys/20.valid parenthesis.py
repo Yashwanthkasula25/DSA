@@ -1,7 +1,7 @@
 class Solution(object):
     def isValid(self, s):
         stack = []
-        mapping = {')': '(', '}': '{', ']': '['}
+        mapping = {'}': '{',')': '(',  ']': '['}
 
         for ch in s:
             if ch in mapping:
