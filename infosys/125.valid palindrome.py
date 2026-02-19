@@ -6,4 +6,4 @@ def isPalindrome(s):
        print(result)
        print(new)     
        return result.lower() == new.lower()
-print(isPalindrome("A man, a plan, a canal: Panama"))
+print(isPalindrome("A man, a plan, a canal: Paa"))
